@@ -1,0 +1,21 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Play.Catalog",
+    "\\Play.Catalog\\src",
+    "\\Play.Catalog\\src\\Play.Catalog.Service",
+    "\\Play.Catalog\\src\\Play.Catalog.Service\\bin",
+    "\\Play.Catalog\\src\\Play.Catalog.Service\\bin\\Debug",
+    "\\Play.Catalog\\src\\Play.Catalog.Service\\bin\\Debug\\net5.0",
+    "\\Play.Catalog\\src\\Play.Catalog.Service\\bin\\Release",
+    "\\Play.Catalog\\src\\Play.Catalog.Service\\bin\\Release\\net5.0",
+    "\\Play.Common",
+    "\\Play.Common\\src",
+    "\\Play.Common\\src\\Play.Common",
+    "\\Play.Common\\src\\Play.Common\\bin",
+    "\\Play.Common\\src\\Play.Common\\bin\\Release",
+    "\\Play.Common\\src\\Play.Common\\bin\\Release\\net5.0"
+  ],
+  "SelectedNode": "\\Play.Catalog\\src\\Play.Catalog.Service\\bin\\Debug\\net5.0",
+  "PreviewInSolutionExplorer": false
+}
